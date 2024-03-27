@@ -54,8 +54,8 @@
     "url-parse": "^1.4.1"
   },
   "peerDependencies": {
-    "@react-native-community/netinfo": "^4.6.0",
-    "rn-fetch-blob": "^0.11.2"
+    "@react-native-community/netinfo": "^9.3.2",
+    "rn-fetch-blob": "0.12.0"
   },
   "devDependencies": {
     "babel-jest": "^21.0.2",
